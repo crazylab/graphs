@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/crazylab/graphs/issues"
   },
-  "homepage": "https://github.com/crazylab/graphs#readme"
+  "homepage": "https://github.com/crazylab/graphs#readme",
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
 }
